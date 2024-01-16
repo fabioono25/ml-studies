@@ -1,2 +1,4 @@
-# ml-studies
-Studies about Machile Learning
+## Studies about Machine Learning
+
+- Data Preprocessing in Python
+- 
